@@ -1,7 +1,9 @@
 # hi 🐾
 
 im a gay ferret with a keyboard
+
 i code sometimes
+
 :3
 
 ## Best at:
