@@ -8,8 +8,8 @@ i code sometimes
 
 ## Best at:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,arch,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,arch,linux,docker&theme=light)](https://skillicons.dev)
 
 ## Worked with but not 100% confident in:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,java,kotlin,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,nextjs,html,css,java,kotlin,py&theme=light)](https://skillicons.dev)
